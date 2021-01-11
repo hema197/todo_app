@@ -1,4 +1,5 @@
-const A=1;//just a dummy variable
+"use strict";
+
 const clear=document.getElementById("refresh");
 const add=document.getElementById("add");
 const list=document.querySelector(".list");
